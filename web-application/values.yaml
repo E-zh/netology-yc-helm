@@ -2,4 +2,4 @@ image:
   repository: egorz/netology-diploma-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: ""
+  tag: "2.0"
